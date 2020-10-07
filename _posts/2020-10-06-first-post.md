@@ -45,6 +45,8 @@ There's a lot we _could_ do, but I'm going to be trying to avoid too many rabbit
 
 I was listening to the news and the word [Autarky](https://en.wikipedia.org/wiki/Autarky) came up, and I liked the sound of it. Something musical & related to economic independence seemed like a good idea, and who doesnt love a [portmanteau](https://en.wikipedia.org/wiki/Portmanteau)?
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Super excited to see what we can make with <a href="https://twitter.com/audiotarky?ref_src=twsrc%5Etfw">@audiotarky</a> thanks to <a href="https://twitter.com/GrantForTheWeb?ref_src=twsrc%5Etfw">@GrantForTheWeb</a> - more info on <a href="https://t.co/2p9yKhztS4">https://t.co/2p9yKhztS4</a> <a href="https://t.co/CfP4gQLuhg">https://t.co/CfP4gQLuhg</a></p>&mdash; Simon /\/\e†s0|\| (@drsm79) <a href="https://twitter.com/drsm79/status/1313535506450440200?ref_src=twsrc%5Etfw">October 6, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{% include image.html
+link="https://twitter.com/drsm79/status/1313535506450440200"
+file="tweet.png" alt="shock tweet" class="tweet" %}
 
 I'm still a bit in shock, and I found out a while ago ;)

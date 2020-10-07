@@ -1,0 +1,3 @@
+{% if include.link%}<a href="{{include.link}}">{% endif %}<img
+        src="{{page.path | replace: "_posts", "/assets/images" | remove: ".md"}}/{{include.file}}" alt="{{include.alt}}"
+        {% if include.class%}class="tweet" {% endif %} />{% if include.link%}</a>{% endif %}
