@@ -11,3 +11,4 @@ exclude:
  - makepost.py
  - venv
 permalink: /:year/:month/:day/:title/index.html
+highlighter: rouge

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Payment verification with Flask & Vanilla
+title: "Payment verification with Vanilla & Flask"
 categories: technology
 tags:
   - python
@@ -28,6 +28,7 @@ payment to the artist.
 Lets look at the code for our proving function first. This is what calls the
 Vanilla API.
 
+{% raw %}
 ```python
 def prove(request):
     """Prove that a WM payment has occurred."""
@@ -62,6 +63,7 @@ def prove(request):
         print(e)
     return False
 ```
+{% endraw %}
 
 There's nothing fantastically interesting in there, and it's essentially a
 port of one of the Vanilla examples from Javasript to Python.
@@ -137,7 +139,7 @@ streaming payment as they do so, so we want to encourage people to sign up to
 voice (thanks to `say`) mentioning that a Coil subscription would mean people
 got paid.
 
-The plan is to bundle some of this up into a library for people to use in
+The plan is to bundle some of this up into [a library][] for people to use in
 their own applications, but that will have to wait a little while as we build
 out the site, prove the idea some more, and, most importantly, get musicians
 on boarded & getting paid!
@@ -148,3 +150,4 @@ on boarded & getting paid!
 [Cinnamon]: https://cinnamon.video/
 [Flask]: https://flask.palletsprojects.com/en/1.1.x/
 [Coil]: https://coil.com/
+[a library]: https://github.com/audiotarky/wm-flask
