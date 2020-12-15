@@ -5,7 +5,7 @@ categories: technology
 tags:
   - python
   - web-monetisation
-excerpt: How we change content based on streaming payments works.
+excerpt: How we change content based on streaming payments.
 author: Simon
 ---
 
