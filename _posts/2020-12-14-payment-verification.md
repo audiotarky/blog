@@ -9,6 +9,8 @@ excerpt: How we change content based on streaming payments.
 author: Simon
 ---
 
+>Grab that cash with both hands and make a stash
+
 Audiotarky wants to get musicians paid fairly for the music they produce.
 We're using [Web Monetisation][] to power that, but there's a gap that needs
 to be closed. The [exclusive content][] example is doing its magic client side
