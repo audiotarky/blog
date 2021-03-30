@@ -21,7 +21,7 @@ I've been interested in all things web since the 90's (I'm lucky enough to be a 
 
 Some hasty phone calls to various friends (music producers, lawyers, film makers), and a few spreadsheets later the grant application was submitted! It was very much a "nothing ventured..." attempt, but there was a nucleus of a good idea there, and I could see how it could come together.
 
-More importantly there's a very real problem, excellently described by [Tom Gray](https://twitter.com/MrTomGray) in [this thread](https://twitter.com/MrTomGray/status/1249290407088881675?s=20), which has only been exasperated by the pandemic and (totally sensible) restrictions on being in large groups.
+More importantly there's a very real problem, excellently described by [Tom Gray](https://twitter.com/MrTomGray) in [this thread](https://twitter.com/MrTomGray/status/1249290407088881675?s=20), which has only been exacerbated by the pandemic and (totally sensible) restrictions on being in large groups.
 
 Those two things kept rubbing around in my head, and I spent some time over the summer thinking about how you could build what had been proposed, the problems and strengths of the ideas. I wrote [some code](https://metsonet.co.uk/web/2020/09/07/ilp_jailbreak_embeddable_playlists.html) and [some blogs](https://metsonet.co.uk/web/2020/07/21/WebMonetiztion-for-musicians.html) and got to the point where I had a "minimum viable product" of one piece of the puzzle. I was quite happy with that.
 
